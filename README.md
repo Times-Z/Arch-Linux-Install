@@ -84,7 +84,7 @@ echo "myhostname" > /etc/hostname
 
 ## 9/ Make the image
 ```
-mkinitcpio -p linux ou **linux-lts** si vous voulez le noyau lts.
+mkinitcpio -p linux-lts
 ```
 
 ## 10/ Install grub
